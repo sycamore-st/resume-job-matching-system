@@ -1,5 +1,7 @@
 # 💼 Resume–Job Matching with Deep Learning
 
+Google Colab: https://colab.research.google.com/drive/14v3u7sWiGvI_Ljp640cR2V5SJTEeVOZL?usp=sharing
+
 ## 🧠 Overview  
 This project builds a smart matching system between job descriptions and resumes using natural language processing (NLP) and deep learning.  
 By leveraging transformer-based embeddings, it semantically compares resumes with job postings to surface the most relevant matches.
